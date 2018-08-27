@@ -1,4 +1,5 @@
 /_build
+/db
 /cover
 /deps
 /doc
@@ -7,3 +8,8 @@ erl_crash.dump
 *.ez
 *.beam
 /config/*.secret.exs
+npm-debug.log
+/assets/node_modules
+/priv/static/
+/.elixir_ls
+/.vscode
